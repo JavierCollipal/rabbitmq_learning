@@ -1,10 +1,11 @@
 const q = "para-borrar";
 const printing = x => {console.log(x)};
+
 const conn = require('amqplib').connect({
     protocol: 'amqp',
-    hostname: '35.238.179.150',
+    hostname: '0.0.0.0',
     port: 5672,
-    username: 'carlos@woorkit.cl',
+    username: 'admin@admin',
     password: 'LD8K¿w8?1un?',
 });
 conn.then(conn=> {
