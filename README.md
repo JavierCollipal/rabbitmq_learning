@@ -1,2 +1,4 @@
 # rabbitmq_learning
-my rabbitmq studies in python and nestJs.
+Mis apuntes de rabbitmq.
+Los folders corresponden a conceptos claves de rabbitmq 
+y estos estan escritos en Javascript o Python 
